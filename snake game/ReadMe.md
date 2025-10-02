@@ -7,6 +7,14 @@ This project implements the classic Snake Game on an 8×8 LED matrix controlled 
 This project demonstrates embedded systems design, SPI communication, real-time gaming logic, and hardware-software integration using MicroPython.
 
 ---
+> Click the button below to jump straight into my project.
+
+<p align="center">
+  <a href="https://wokwi.com/projects/443720747988473857" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open Project Badge"/>
+  </a>
+</p>
+---
 
 ## 🛠 Hardware Components
 
@@ -333,5 +341,6 @@ Snake-Game-Pico/
 - Open-source contributors for MAX7219 library
 
 ---
+
 
 *This project is open-source and available for educational and personal use. Feel free to modify and enhance according to your requirements.*
