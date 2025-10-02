@@ -3,7 +3,13 @@
 ## Project Overview
 This project implements a Flappy Bird-style game using Raspberry Pi Pico microcontroller with multiple display interfaces and user input controls. The game demonstrates real-time graphics rendering, physics simulation, and hardware interfacing in an embedded system environment.
 
-![Project Block Diagram](https://via.placeholder.com/600x300/4A6572/FFFFFF?text=Flappy+Bird+Game+Architecture)
+> Click the button below to jump straight into my project.
+
+<p align="center">
+  <a href="https://wokwi.com/projects/438795646549160961" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open Project Badge"/>
+  </a>
+</p>
 
 ## 🎯 Project Objectives
 - Design and implement an interactive game on Raspberry Pi Pico
@@ -153,4 +159,5 @@ The Flappy Bird game serves as an excellent platform for learning embedded syste
 - 💫 **Power-ups**: Special abilities and bonuses
 - 🎨 **Animations**: Enhanced visual effects
 - 📊 **Statistics**: Detailed gameplay analytics
+
       
