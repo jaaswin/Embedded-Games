@@ -1,7 +1,16 @@
 # Catch the Light Game — Reaction Time Challenge
-
 ---
 
+> Click the button below to jump straight into my project.
+
+<p align="center">
+  <a href="https://wokwi.com/projects/447241969981217793" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open Project Badge"/>
+  </a>
+</p>
+
+
+---
 ## Project Overview
 Catch the Light Game is an interactive reaction-time embedded project built with the Raspberry Pi Pico (RP2040) and MicroPython. Players watch a chasing light animation across an 8-LED array and try to press a button exactly when the randomly chosen target LED lights up. Feedback is provided via a buzzer and a 16×2 I²C LCD.
 
@@ -150,3 +159,4 @@ Accessibility
 Catch the Light is a compact, instructive embedded project that demonstrates MicroPython programming, I²C integration, and real-time user interaction. Its modular design makes it easy to extend with new modes, logging, or network features.
 
 ---
+
