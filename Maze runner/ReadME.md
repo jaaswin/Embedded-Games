@@ -1,6 +1,16 @@
 # Maze Runner – Embedded Game using Raspberry Pi Pico
 
 ![Platform - Raspberry Pi Pico](https://img.shields.io/badge/Platform-Raspberry_Pi_Pico-red?style=for-the-badge) ![Language - MicroPython](https://img.shields.io/badge/Language-MicroPython-blue?style=for-the-badge)
+---
+
+> Click the button below to jump straight into my project.
+
+<p align="center">
+  <a href="https://wokwi.com/projects/447301186439851009" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open Project Badge"/>
+  </a>
+</p>
+---
 
 ## 🎯 Project Overview
 The Maze Runner Game is an interactive embedded system project that combines hardware control, sensor interfacing, and real-time programming. Players navigate a "runner" (a glowing LED dot) through a maze displayed on an 8×8 LED matrix using a joystick controller, with audio feedback provided through a buzzer.
@@ -194,3 +204,4 @@ Contributions, issues, and feature requests are welcome! Please:
 Please check the issues page for existing tasks or request new features.
 
 ---
+
