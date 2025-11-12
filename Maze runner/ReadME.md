@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open Project Badge"/>
   </a>
 </p>
+
 ---
 
 ## 🎯 Project Overview
@@ -204,4 +205,5 @@ Contributions, issues, and feature requests are welcome! Please:
 Please check the issues page for existing tasks or request new features.
 
 ---
+
 
