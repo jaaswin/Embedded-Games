@@ -7,10 +7,10 @@ This collection showcases how **hardware meets fun**, where LEDs, sensors, and l
 ---
 ##  How to Explore
 
-### 1. Open the project folders available above.  
-### 2. Inside each folder, explore the **project report** to understand the concept, circuit, and working.  
-### 3. I’ve also attached a **project link (hosted on the Wokwi platform)** — this allows you to directly **view, simulate, and explore** the project online.  
-### 4. Use these resources to study, modify, and enhance your own embedded creations!  
+#### 1. Open the project folders available above.  
+#### 2. Inside each folder, explore the **project report** to understand the concept, circuit, and working.  
+#### 3. I’ve also attached a **project link (hosted on the Wokwi platform)** — this allows you to directly **view, simulate, and explore** the project online.  
+#### 4. Use these resources to study, modify, and enhance your own embedded creations!  
 
 >  *These projects are made to help beginners and enthusiasts easily learn, test, and build embedded games hands-on.*
 
