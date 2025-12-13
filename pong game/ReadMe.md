@@ -1,4 +1,21 @@
 ## Pong Game on Raspberry Pi Pico using Grove OLED SH1107 (128×128)
+> Click the button below to jump straight into my project.
+
+<p align="center">
+  <a href="https://wokwi.com/projects/450221015009910785" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open Project Badge"/>
+  </a>
+</p>
+
+<br>
+
+- [🔗
+My project](https://wokwi.com/projects/450221015009910785)
+
+``` bash
+https://wokwi.com/projects/450221015009910785
+
+```
 
 ### Project Overview
 
@@ -62,4 +79,5 @@ The game runs in a continuous loop with controlled refresh timing to ensure smoo
 
 This project successfully demonstrates how a Raspberry Pi Pico can be used to create an interactive graphical application using an OLED display.
 It highlights key embedded system skills such as hardware interfacing, graphics handling, real-time logic, and MicroPython programming, making it a strong addition to an embedded systems portfolio.
+
 
