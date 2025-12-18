@@ -10,6 +10,15 @@ This project implements a Flappy Bird-style game using Raspberry Pi Pico microco
     <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open Project Badge"/>
   </a>
 </p>
+<br>
+
+- [🔗
+My project](https://wokwi.com/projects/438795646549160961)
+
+``` bash
+https://wokwi.com/projects/438795646549160961
+
+```
 
 ## 🎯 Project Objectives
 - Design and implement an interactive game on Raspberry Pi Pico
@@ -161,3 +170,4 @@ The Flappy Bird game serves as an excellent platform for learning embedded syste
 - 📊 **Statistics**: Detailed gameplay analytics
 
       
+
