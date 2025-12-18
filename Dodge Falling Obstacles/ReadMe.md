@@ -13,6 +13,15 @@
     <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open Project Badge"/>
   </a>
 </p>
+<br>
+
+- [🔗
+My project](https://wokwi.com/projects/438789175481981953)
+
+``` bash
+https://wokwi.com/projects/438789175481981953
+
+```
 
 
 ## 📋 Project Overview
@@ -224,3 +233,4 @@ We welcome contributions to enhance this embedded game:
 
 
 *Keep Dodging!* 🎯
+
