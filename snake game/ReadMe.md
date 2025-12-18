@@ -1,11 +1,4 @@
 # Snake Game using Raspberry Pi Pico
-
-## 📋 Project Overview
-
-This project implements the classic Snake Game on an 8×8 LED matrix controlled by the MAX7219 driver IC and a Raspberry Pi Pico. A joystick module provides user input to control the snake's movement. The snake grows in size each time it eats food, and the game ends when it collides with the wall or with itself.
-
-This project demonstrates embedded systems design, SPI communication, real-time gaming logic, and hardware-software integration using MicroPython.
-
 ---
 > Click the button below to jump straight into my project.
 
@@ -15,6 +8,23 @@ This project demonstrates embedded systems design, SPI communication, real-time 
   </a>
 </p>
 ---
+<br>
+
+- [🔗
+My project](https://wokwi.com/projects/443720747988473857)
+
+``` bash
+https://wokwi.com/projects/450221015009910785
+
+```
+
+## 📋 Project Overview
+
+This project implements the classic Snake Game on an 8×8 LED matrix controlled by the MAX7219 driver IC and a Raspberry Pi Pico. A joystick module provides user input to control the snake's movement. The snake grows in size each time it eats food, and the game ends when it collides with the wall or with itself.
+
+This project demonstrates embedded systems design, SPI communication, real-time gaming logic, and hardware-software integration using MicroPython.
+
+
 
 ## 🛠 Hardware Components
 
@@ -344,3 +354,4 @@ Snake-Game-Pico/
 
 
 *This project is open-source and available for educational and personal use. Feel free to modify and enhance according to your requirements.*
+
