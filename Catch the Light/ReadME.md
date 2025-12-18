@@ -8,6 +8,15 @@
     <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open Project Badge"/>
   </a>
 </p>
+<br>
+
+- [🔗
+My project](https://wokwi.com/projects/447241969981217793)
+
+``` bash
+https://wokwi.com/projects/447241969981217793
+
+```
 
 
 ---
@@ -159,4 +168,5 @@ Accessibility
 Catch the Light is a compact, instructive embedded project that demonstrates MicroPython programming, I²C integration, and real-time user interaction. Its modular design makes it easy to extend with new modes, logging, or network features.
 
 ---
+
 
