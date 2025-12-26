@@ -1,5 +1,19 @@
 # LCD Runner Game using Raspberry Pi Pico
 
+> Click the button below to jump straight into my project.
+
+<p align="center">
+  <a href="https://wokwi.com/projects/438795646549160961" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Project-%F0%9F%9A%80-blue?style=for-the-badge" alt="Open Project Badge"/>
+  </a>
+</p>
+<br>
+
+- [🔗
+My project](https://wokwi.com/projects/438795646549160961)
+
+``` bash
+https://wokwi.com/projects/438795646549160961
 ## 📌 Project Overview
 **LCD Runner** is a simple runner-style game built using a **Raspberry Pi Pico**, a **16x2 LCD display**, and **push buttons**.  
 The player controls a character on the LCD screen and uses buttons to jump or move to avoid obstacles.
@@ -99,3 +113,4 @@ This project demonstrates:
 
 ## 📄 License
 This project is open-source and available under the **MIT License**.
+
